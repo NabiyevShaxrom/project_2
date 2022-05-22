@@ -1,3 +1,4 @@
+"use script";
 const numberOfFilms = +prompt('Siz qancha filmni ko`rib bo`lgansiz?', ''); //1
 
 const personalMovieDB =  {
